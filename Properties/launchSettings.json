@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "TrilhaApiDesafio": {
+    "ApiDesafioAgenda": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
